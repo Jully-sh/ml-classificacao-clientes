@@ -70,11 +70,3 @@ Estratégias de retenção de clientes
 Segmentação de campanhas de marketing
 
 Apoio à tomada de decisão gerencial
-
-
-
-🧠 Ajustar o README para recrutador não técnico
-
-✨ Criar uma descrição curta perfeita para LinkedIn
-
-É só me dizer 💙
