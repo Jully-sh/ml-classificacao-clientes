@@ -1,0 +1,14 @@
+# Ambiente virtual
+venv/
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Relatórios gerados
+*.pdf
