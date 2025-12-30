@@ -71,15 +71,7 @@ Segmentação de campanhas de marketing
 
 Apoio à tomada de decisão gerencial
 
-👩‍💻 Autora
 
-Jully Costa
-📍 Apaixonada por dados, automações e soluções inteligentes
-🔗 GitHub
-
-Se quiser, no próximo passo eu posso:
-
-🔥 Melhorar ainda mais o texto para vaga de Dados / ML
 
 🧠 Ajustar o README para recrutador não técnico
 
